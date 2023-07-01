@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MI CALENDARIO</string>
+    <string name="Nombre">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Ingresar">INGRESAR</string>
+    <string name="crearCuenta">CREAR CUENTA</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/calendario"
+        android:title="Calendario"
+        android:icon="@drawable/ic_action_calendario"
+        app:showAsAction="ifRoom"
+
+        />
+
+    <item
+        android:id="@+id/Buscar"
+        android:title="Buscar"
+        android:icon="@drawable/ic_action_buscar"
+        app:showAsAction="ifRoom"
+
+        />
+    <item
+        android:id="@+id/opcion1"
+        android:title="Crear Horarios"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/opcion2"
+        android:title="Ver Cursos"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/opcion3"
+        android:title="Programar recordatorios"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/opcion4"
+        android:title="Ajustes"
+        app:showAsAction="never"
+        />
+</menu>
